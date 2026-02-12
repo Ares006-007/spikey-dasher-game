@@ -2,6 +2,10 @@
 
 # Spiky Dasher
 
+
+## 🎮 Play Demo
+
+[**Play Spikey Dasher**](https://ares006-007.github.io/spikey-dasher-game/)
 Spiky Dasher is a fast-paced 2D browser platformer where you dash, double-jump, and wall-slide through spike-filled levels while racing against a timer and tracking your deaths.
 
 ## Overview
@@ -49,4 +53,5 @@ The game is built entirely with HTML, CSS, and vanilla JavaScript and runs direc
 
 - Add WASD and mobile touch controls, plus on-screen buttons for phones and tablets.
 - Implement audio (jump, death, portal, background music), a main menu, level selection, and a persistent best-time / least-deaths high-score system.
+
 
